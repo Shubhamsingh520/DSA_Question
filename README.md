@@ -8,6 +8,7 @@
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -22,6 +23,7 @@
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0662-maximum-width-of-binary-tree) |
 ## Backtracking
 |  |
@@ -43,4 +45,12 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
