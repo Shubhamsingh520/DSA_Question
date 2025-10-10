@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -19,6 +20,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -32,6 +34,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -53,4 +56,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
