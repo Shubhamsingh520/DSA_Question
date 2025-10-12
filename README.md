@@ -89,10 +89,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -102,4 +104,24 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
