@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,12 +118,18 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
