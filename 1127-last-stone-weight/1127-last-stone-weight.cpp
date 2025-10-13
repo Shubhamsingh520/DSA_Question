@@ -8,12 +8,12 @@ public:
         }
 
         while(pq.size() > 1) {
-            int first = pq.top();
+            int x = pq.top();
             pq.pop();
-            int second = pq.top();
+            int y = pq.top();
             pq.pop();
-            if(first != second) {
-                pq.push(first - second);
+            if(x != y) {
+                pq.push(x - y);
             }
         }
         if(pq.empty()) {
