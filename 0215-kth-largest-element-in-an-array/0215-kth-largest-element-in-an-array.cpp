@@ -5,7 +5,7 @@ public:
         for(int i=0; i<nums.size(); i++) {
             pq.push(nums[i]);
         }
-        sort(nums.begin(), nums.end());
+      //  sort(nums.begin(), nums.end());
         for(int i=0; i<k-1; i++) {
             pq.pop();
         }
