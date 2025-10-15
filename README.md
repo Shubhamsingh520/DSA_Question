@@ -108,11 +108,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 ## Math
 |  |
 | ------- |
@@ -166,4 +168,12 @@
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
