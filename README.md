@@ -101,6 +101,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -179,6 +180,7 @@
 | [0217-contains-duplicate](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
