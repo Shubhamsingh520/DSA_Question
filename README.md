@@ -104,6 +104,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Divide and Conquer
@@ -184,6 +185,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
@@ -203,4 +205,5 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
