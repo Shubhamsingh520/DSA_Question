@@ -1,17 +1,16 @@
 class Solution {
 public:
     int sumOfUnique(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        int sum = 0;
-        for(int i=0; i<nums.size(); ) {
-            int j = i+1;
-            while(j<nums.size() && nums[j] == nums[i]) j++; 
-            if(j-i == 1) 
-                sum += nums[i];
-            i = j;
-            
+        unordered_map<int, int> m;
+        int res = 0;
+        for(int i=0; i<nums.size(); i++) {
+            m[nums[i]]++;
         }
-        return sum;
-        
+        for(auto & p : m) {
+            if(p.second == 1) {
+                res += p.first;
+            }
+        }
+        return res;
     }
 };
