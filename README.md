@@ -111,6 +111,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -197,6 +198,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -219,6 +221,7 @@
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 <!---LeetCode Topics End-->
