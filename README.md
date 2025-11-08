@@ -93,6 +93,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0215-kth-largest-element-in-an-array) |
@@ -190,6 +191,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
