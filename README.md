@@ -44,6 +44,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
@@ -78,6 +79,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0260-single-number-iii) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0215-kth-largest-element-in-an-array) |
