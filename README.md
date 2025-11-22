@@ -64,10 +64,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0234-palindrome-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -138,6 +140,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
+| [0234-palindrome-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
