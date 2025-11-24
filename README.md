@@ -142,11 +142,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0390-elimination-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0062-unique-paths) |
+| [0390-elimination-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0390-elimination-game) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
