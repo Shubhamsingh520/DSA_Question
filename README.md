@@ -47,6 +47,7 @@
 | [0046-permutations](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0491-non-decreasing-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0137-single-number-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0260-single-number-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0491-non-decreasing-subsequences) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0260-single-number-iii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -216,6 +219,7 @@
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0491-non-decreasing-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0496-next-greater-element-i) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
