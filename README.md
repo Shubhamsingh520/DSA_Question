@@ -44,6 +44,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0137-single-number-ii) |
