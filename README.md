@@ -111,6 +111,7 @@
 | [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0137-single-number-ii) |
@@ -264,6 +265,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0344-reverse-string) |
