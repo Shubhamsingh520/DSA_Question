@@ -128,6 +128,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Divide and Conquer
@@ -151,6 +152,7 @@
 | [0390-elimination-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
@@ -272,4 +275,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
