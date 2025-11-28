@@ -131,6 +131,7 @@
 | [0496-next-greater-element-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0540-single-element-in-a-sorted-array) |
+| [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -152,6 +153,7 @@
 | [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
@@ -193,6 +195,7 @@
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -205,6 +208,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -306,4 +310,20 @@
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
