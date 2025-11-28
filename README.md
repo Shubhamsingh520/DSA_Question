@@ -107,6 +107,7 @@
 | [0001-two-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0137-single-number-ii) |
@@ -140,6 +141,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
 ## Two Pointers
