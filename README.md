@@ -44,6 +44,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0051-n-queens) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0051-n-queens) |
@@ -224,6 +226,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0054-spiral-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Queue
@@ -243,6 +246,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
