@@ -52,6 +52,7 @@
 | [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0491-non-decreasing-subsequences) |
 ## Depth-First Search
 |  |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
+| [0131-palindrome-partitioning](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -277,6 +279,7 @@
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0062-unique-paths) |
+| [0131-palindrome-partitioning](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
 ## Two Pointers
