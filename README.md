@@ -133,6 +133,7 @@
 | [0260-single-number-iii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0496-next-greater-element-i) |
@@ -202,6 +203,7 @@
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
@@ -255,6 +257,7 @@
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0496-next-greater-element-i) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
