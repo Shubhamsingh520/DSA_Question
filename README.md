@@ -194,6 +194,7 @@
 | [0390-elimination-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
 ## Geometry
@@ -296,6 +297,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
+| [1137-n-th-tribonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -353,4 +355,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
