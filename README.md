@@ -370,4 +370,8 @@
 | ------- |
 | [0397-integer-replacement](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1137-n-th-tribonacci-number) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
