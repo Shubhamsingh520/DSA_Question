@@ -373,5 +373,6 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
