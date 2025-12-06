@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
@@ -132,6 +133,7 @@
 | [0137-single-number-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
@@ -257,6 +259,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0239-sliding-window-maximum) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
 ## Monotonic Queue
@@ -377,4 +380,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0177-nth-highest-salary) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
