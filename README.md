@@ -160,6 +160,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1652-defuse-the-bomb) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
@@ -267,6 +268,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
+| [1652-defuse-the-bomb](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1652-defuse-the-bomb) |
 ## Monotonic Queue
 |  |
 | ------- |
