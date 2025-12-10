@@ -123,6 +123,7 @@
 | [0039-combination-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0054-spiral-matrix) |
@@ -220,6 +221,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
@@ -305,6 +308,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0344-reverse-string) |
