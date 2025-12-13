@@ -88,6 +88,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -142,6 +143,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
@@ -329,6 +331,7 @@
 | [0131-palindrome-partitioning](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0416-partition-equal-subset-sum) |
