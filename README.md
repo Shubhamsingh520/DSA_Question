@@ -128,6 +128,7 @@
 | [0051-n-queens](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0397-integer-replacement) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Recursion
@@ -333,6 +335,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0064-minimum-path-sum) |
