@@ -128,6 +128,7 @@
 | [0051-n-queens](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -267,6 +268,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Queue
@@ -330,6 +332,7 @@
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0198-house-robber) |
