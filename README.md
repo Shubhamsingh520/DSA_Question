@@ -160,6 +160,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
@@ -266,6 +267,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0054-spiral-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Queue
 |  |
@@ -338,6 +340,7 @@
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
