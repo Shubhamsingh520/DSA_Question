@@ -138,6 +138,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0215-kth-largest-element-in-an-array) |
@@ -274,6 +275,7 @@
 | [0054-spiral-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0064-minimum-path-sum) |
+| [0174-dungeon-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Queue
@@ -343,6 +345,7 @@
 | [0064-minimum-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0322-coin-change) |
