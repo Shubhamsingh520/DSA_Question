@@ -329,6 +329,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0131-palindrome-partitioning) |
@@ -344,6 +345,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0055-jump-game) |
@@ -372,6 +374,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0151-reverse-words-in-a-string) |
