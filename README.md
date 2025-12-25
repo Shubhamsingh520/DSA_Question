@@ -151,6 +151,7 @@
 | [0322-coin-change](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0413-arithmetic-slices](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
@@ -362,6 +364,7 @@
 | [0322-coin-change](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0509-fibonacci-number) |
