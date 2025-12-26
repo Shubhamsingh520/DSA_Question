@@ -172,6 +172,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
+| [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -378,6 +379,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1143-longest-common-subsequence) |
+| [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -462,8 +464,10 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
