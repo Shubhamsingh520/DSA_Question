@@ -103,6 +103,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0397-integer-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0784-letter-case-permutation) |
@@ -249,6 +250,7 @@
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0561-array-partition) |
@@ -319,6 +321,7 @@
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0491-non-decreasing-subsequences) |
@@ -346,6 +349,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0647-palindromic-substrings) |
