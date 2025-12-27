@@ -47,6 +47,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0051-n-queens) |
@@ -122,6 +123,7 @@
 | [0015-3sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0049-group-anagrams) |
