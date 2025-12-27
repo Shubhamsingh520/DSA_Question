@@ -295,6 +295,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
@@ -322,6 +323,7 @@
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -351,6 +353,7 @@
 | [0205-isomorphic-strings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0516-longest-palindromic-subsequence) |
@@ -409,6 +412,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
