@@ -180,6 +180,7 @@
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
 | [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1652-defuse-the-bomb) |
@@ -486,6 +487,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
