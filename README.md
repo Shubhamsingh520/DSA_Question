@@ -135,6 +135,7 @@
 | [0055-jump-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0066-plus-one) |
 | [0343-integer-break](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
