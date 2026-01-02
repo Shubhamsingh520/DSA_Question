@@ -175,6 +175,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
