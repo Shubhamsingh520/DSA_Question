@@ -195,6 +195,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2404-most-frequent-even-element) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -351,6 +352,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2404-most-frequent-even-element) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -377,6 +379,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1143-longest-common-subsequence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -452,6 +455,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0054-spiral-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Game Theory
 |  |
 | ------- |
