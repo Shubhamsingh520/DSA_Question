@@ -199,6 +199,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -359,6 +360,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
