@@ -194,6 +194,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2094-finding-3-digit-even-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2404-most-frequent-even-element) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -221,6 +222,7 @@
 | [0397-integer-replacement](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0561-array-partition) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Recursion
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2094-finding-3-digit-even-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
