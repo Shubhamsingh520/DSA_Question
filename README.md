@@ -346,6 +346,7 @@
 | [0496-next-greater-element-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0645-set-mismatch) |
+| [0859-buddy-strings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -381,6 +382,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0647-palindromic-substrings) |
 | [0784-letter-case-permutation](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0784-letter-case-permutation) |
+| [0859-buddy-strings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0859-buddy-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1668-maximum-repeating-substring) |
