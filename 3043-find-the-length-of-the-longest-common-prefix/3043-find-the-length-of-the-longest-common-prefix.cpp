@@ -5,8 +5,8 @@ public:
         unordered_map<string, int> m2;
 
         for(int i = 0; i < arr1.size(); i++) {
-            string s = to_string(arr1[i]);   // FIX
-            string temp = "";                // FIX
+            string s = to_string(arr1[i]);  
+            string temp = "";                
             for(char c : s) {
                 temp += c;
                 m1[temp]++;
@@ -14,8 +14,8 @@ public:
         }
 
         for(int i = 0; i < arr2.size(); i++) {
-            string s = to_string(arr2[i]);   // OK
-            string temp = "";                // FIX
+            string s = to_string(arr2[i]);   
+            string temp = "";                
             for(char c : s) {
                 temp += c;
                 m2[temp]++;
