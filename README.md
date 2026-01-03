@@ -420,6 +420,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1668-maximum-repeating-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1668-maximum-repeating-substring) |
 ## Two Pointers
 |  |
