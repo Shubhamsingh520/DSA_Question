@@ -85,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0222-count-complete-tree-nodes) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0040-combination-sum-ii) |
