@@ -199,6 +199,7 @@
 | [2404-most-frequent-even-element](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2404-most-frequent-even-element) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -362,6 +363,7 @@
 | [2404-most-frequent-even-element](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2404-most-frequent-even-element) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -393,6 +395,7 @@
 | [1668-maximum-repeating-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1668-maximum-repeating-substring) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -529,4 +532,8 @@
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1668-maximum-repeating-substring) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
