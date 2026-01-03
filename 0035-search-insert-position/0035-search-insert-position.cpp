@@ -1,12 +1,16 @@
 class Solution {
 public:
-    int searchInsert(vector<int>& nums, int target) {
-        for(int i=0; i<nums.size(); i++) {
-            if(nums[i] >= target) {
-                return i;
-            }
+    int solve(vector<int>& nums, int i, int n, int target) {
+        if(i == n) {
+            return n;
         }
-        return nums.size();
-        
+        if(nums[i] >= target) { 
+            return i;
+        }
+        return solve(nums, i+1, n, target);
+    }
+    int searchInsert(vector<int>& nums, int target) {
+        int n = nums.size();
+        return solve(nums, 0, n, target);
     }
 };
