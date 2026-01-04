@@ -186,6 +186,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
+| [1390-four-divisors](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1480-running-sum-of-1d-array) |
@@ -251,6 +252,7 @@
 | [0509-fibonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0509-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1137-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1390-four-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3994-find-the-least-frequent-digit](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3994-find-the-least-frequent-digit) |
 ## Geometry
