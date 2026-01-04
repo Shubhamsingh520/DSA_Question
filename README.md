@@ -184,6 +184,7 @@
 | [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
@@ -280,6 +281,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -454,6 +456,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0647-palindromic-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
