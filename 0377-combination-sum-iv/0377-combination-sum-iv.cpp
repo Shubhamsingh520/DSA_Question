@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int solve(vector<int>& nums, int n, vector<int>& dp) {
+        if(n == 0) {
+            return 1;
+        }
+        if(n < 0) {
+            return 0;
+        }
+        if(dp[n] != -1) {
+            return dp[n];
+        }
+        int res = 0;
+        for(int c : nums) {
+            res += solve(nums, n-c, dp);  
+        }
+        return dp[n] = res;
+    }
+    int combinationSum4(vector<int>& nums, int target) {
+        vector<int> dp(target+1, -1);   
+        return solve(nums, target, dp); 
+    }
+};
