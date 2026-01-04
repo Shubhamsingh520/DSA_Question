@@ -190,6 +190,7 @@
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
 | [1390-four-divisors](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
+| [1436-destination-city](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1436-destination-city) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -363,6 +364,7 @@
 | [0645-set-mismatch](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1436-destination-city](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1436-destination-city) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
@@ -402,6 +404,7 @@
 | [0859-buddy-strings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0859-buddy-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1143-longest-common-subsequence) |
+| [1436-destination-city](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1436-destination-city) |
 | [1668-maximum-repeating-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1668-maximum-repeating-substring) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2744-find-maximum-number-of-string-pairs) |
