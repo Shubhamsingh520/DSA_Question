@@ -16,6 +16,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0975-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -26,6 +27,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0975-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
@@ -68,6 +71,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0975-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Linked List
 |  |
