@@ -207,6 +207,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2094-finding-3-digit-even-numbers) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -376,6 +377,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2094-finding-3-digit-even-numbers) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2404-most-frequent-even-element) |
@@ -478,6 +480,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1848-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3005-count-elements-with-maximum-frequency) |
