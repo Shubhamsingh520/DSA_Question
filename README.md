@@ -197,6 +197,7 @@
 | [1390-four-divisors](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 | [1436-destination-city](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1436-destination-city) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -455,6 +456,7 @@
 | [1143-longest-common-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1143-longest-common-subsequence) |
 | [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1668-maximum-repeating-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1668-maximum-repeating-substring) |
 ## Two Pointers
 |  |
