@@ -394,6 +394,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0058-length-of-last-word) |
@@ -460,6 +461,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0151-reverse-words-in-a-string) |
@@ -557,6 +559,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1668-maximum-repeating-substring](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
