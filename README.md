@@ -245,6 +245,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0044-wildcard-matching) |
+| [0233-number-of-digit-one](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
@@ -258,6 +259,7 @@
 | [0062-unique-paths](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0202-happy-number) |
+| [0233-number-of-digit-one](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0233-number-of-digit-one) |
 | [0343-integer-break](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0486-predict-the-winner) |
@@ -436,6 +438,7 @@
 | [0174-dungeon-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0343-integer-break) |
