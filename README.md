@@ -194,6 +194,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 | [1436-destination-city](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1436-destination-city) |
@@ -238,6 +239,7 @@
 | [0055-jump-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0561-array-partition) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Recursion
@@ -295,6 +297,7 @@
 | [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -459,6 +462,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1143-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1458-max-dot-product-of-two-subsequences) |
