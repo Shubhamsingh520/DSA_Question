@@ -577,4 +577,8 @@
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
