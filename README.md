@@ -191,6 +191,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0997-find-the-town-judge) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
@@ -379,6 +380,7 @@
 | [0645-set-mismatch](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0859-buddy-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1436-destination-city) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -580,5 +582,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
