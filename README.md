@@ -23,6 +23,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0662-maximum-width-of-binary-tree) |
@@ -67,6 +68,7 @@
 | [0113-path-sum-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -153,6 +155,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0215-kth-largest-element-in-an-array) |
@@ -332,6 +335,7 @@
 | [0063-unique-paths-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Queue
@@ -584,4 +588,8 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
