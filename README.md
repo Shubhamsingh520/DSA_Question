@@ -19,6 +19,7 @@
 | [0975-range-sum-of-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0975-range-sum-of-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0975-range-sum-of-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0975-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0975-range-sum-of-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -242,6 +246,7 @@
 | [0912-sort-an-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +256,7 @@
 | [0561-array-partition](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0561-array-partition) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1382-balance-a-binary-search-tree) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Shubhamsingh520/DSA_Question/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Recursion
 |  |
