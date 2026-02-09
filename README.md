@@ -29,6 +29,7 @@
 | [0200-number-of-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -190,6 +191,7 @@
 | [0506-relative-ranks](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0643-maximum-average-subarray-i) |
@@ -349,6 +351,7 @@
 | [0130-surrounded-regions](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Queue
@@ -473,6 +476,7 @@
 | [0509-fibonacci-number](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0746-min-cost-climbing-stairs) |
