@@ -35,6 +35,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1020-number-of-enclaves](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -87,6 +88,7 @@
 | [0975-range-sum-of-bst](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0975-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1254-number-of-closed-islands) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1971-find-if-path-exists-in-graph) |
@@ -218,6 +220,7 @@
 | [1020-number-of-enclaves](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1127-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1390-four-divisors) |
 | [1395-count-number-of-teams](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1395-count-number-of-teams) |
@@ -363,6 +366,7 @@
 | [0733-flood-fill](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1254-number-of-closed-islands) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Queue
 |  |
@@ -622,5 +626,6 @@
 | [0130-surrounded-regions](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
