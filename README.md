@@ -33,6 +33,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -605,9 +607,11 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shubhamsingh520/DSA_Question/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Shubhamsingh520/DSA_Question/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
